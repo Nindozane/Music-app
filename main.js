@@ -14,8 +14,8 @@ var song1_status = "";
 var song2_status = "";
 
 function preload() {
-    senorita = loadSound("Senorita.mp3");
-    shape_of_you = loadSound("Shape_of_You.mp3");
+    hope = loadSound("hope-lyrics.mp3");
+    vege = loadSound("Shape_of_You.mp3");
 }
 
 function setup() {
