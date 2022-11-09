@@ -15,7 +15,7 @@ var song2_status = "";
 
 function preload() {
     hope = loadSound("hope-lyrics.mp3");
-    vege = loadSound("Shape_of_You.mp3");
+    vege = loadSound("ramenez-la-coupe-a-la-maison.mp3");
 }
 
 function setup() {
